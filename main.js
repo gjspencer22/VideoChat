@@ -1,9 +1,9 @@
 import './style.css'
 
-console.log('aye')
+
 import firebase from 'firebase/app';
 import 'firebase/firestore';
-console.log("ELLO")
+
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 
